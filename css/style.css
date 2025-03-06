@@ -1,0 +1,40 @@
+/*  esto es un comentario de una o varias lineas*/
+/* colores por nombres */
+
+body{
+    background-color: #72798a;
+}
+
+.pDiferente{
+    color: green;
+}
+
+.negritaSemantica{
+
+    color: aqua;
+}
+
+/* codigo hexadecimal */
+
+.pWP{
+    color: yellow;
+}
+
+.colorRGB{
+    color: rgb(245, 160, 10);
+}
+
+.divRGBA{
+    width: 50%;
+    background-color: rgba(11,60, 8,0.5);
+    color: white;
+}
+
+.divHSL{
+    width: 50%;
+    background-color: hsl(187, 89%, 29%);
+    padding: 20px;
+    margin-top: 50px;
+
+}
+
